@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello I am Adam (QualityPre)
+
+## What I specialise in
+
+I am mainly a front-end developer with the javascript programming language. 
+
+![](https://komarev.com/ghpvc/?username=QualityPre)
 
 <!--
 **QualityPre/QualityPre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
