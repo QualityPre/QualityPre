@@ -14,7 +14,7 @@ I am currently updating a article saver list which is made with vanilla javascri
 I have also recently started a github search engine project which is made with React and Tailwind CSS
 
 ## 🌱 Currently learning
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![[github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/QualityPre?tab=repositories)
 ![](https://komarev.com/ghpvc/?username=QualityPre)
 
 <!--
